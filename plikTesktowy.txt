@@ -1,3 +1,4 @@
 To jest moj pierwszy plik tekstowy, zwierajacy jedna linijke tekstu
 druga linia tekstu
 3 linijka
+4 linijka
