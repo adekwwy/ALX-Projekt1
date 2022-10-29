@@ -1,0 +1,2 @@
+To jest moj pierwszy plik tekstowy, zwierajacy jedna linijke tekstu
+druga linia tekstu
